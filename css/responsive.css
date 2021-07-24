@@ -1,0 +1,331 @@
+@media only screen and (min-width:1200px){
+  .header-text-box {
+	width: 115rem;
+}
+}
+@media only screen and (max-width:1200px){
+.row {
+	max-width: 95%;
+}
+
+header {
+	height: 70vh;
+}
+.main-nav li a:link, .main-nav li a:visited, .sticky li a:visited {
+padding: .4rem 1rem;
+}
+.header-text-box {
+	width: 75%;
+}
+h1 {
+	font-size: 3.2rem;
+}
+.team-member {
+	height: 15rem;
+	width: 15rem;
+}
+
+.team-section h3{
+	margin-top: 2rem;
+}
+.client-photo {
+	width: 10rem;
+  margin-right:2.5rem;
+}
+.client-photo img {
+	height: 10rem;
+}
+.testimonial-section .client-review h3{
+	margin-top: 0;
+}.
+.testimonial-section .col:nth-child(3), .testimonial-section .col:nth-child(4) {
+	margin-top: 3rem;
+}
+.portfolio-section .portfolio-image {
+	height: 25rem;
+}
+.social-link ul li a:link i::before {
+	padding: .7rem;
+}
+}
+
+
+
+
+
+
+
+
+
+@media only screen and (max-width:992px){
+.row {
+	max-width: 90%;
+}
+header {
+	height: 75vh;
+}
+.main-nav{
+    display: none;
+  }
+
+.mobile-menu span{
+	display: block;
+}
+h1 {
+	font-size: 2.5rem;
+}
+section {
+	padding: 6rem 0;
+}
+h2{
+	font-size: 3.5rem;
+}
+.service-icon {
+	height: 8rem;
+	margin-top: 6rem;
+}
+.team-member {
+	height: 10rem;
+	width: 10rem;
+}
+h3 {
+	font-size: 1.7rem;
+  margin-top:2rem;
+}
+.box .role {
+	font-size: 1.4rem;
+}
+.box p {
+	font-size: 1.4rem;
+	width: 80%;
+	margin: 2% 10%;
+}
+.social-link ul li a:link i::before {
+	height: 1.4rem;
+	width: 1.4rem;
+	font-size: 1.4rem;
+}
+.social-link ul li {
+	margin: 0 1%;
+}
+.portfolio-section .portfolio-image {
+	height: 18rem;
+}
+.client-photo {
+	width: 100%;
+	margin:0;
+}
+.testimonial-section{
+  text-align: center;
+}
+.client-photo img {
+	height: 9rem;
+	margin: auto;
+	display:block;
+}
+.testimonial-section .client-review {
+	width: 90%;
+	margin: 0 5%;
+}
+.testimonial-section .col:nth-child(3), .testimonial-section .col:nth-child(4) {
+	margin-top: 3rem;
+}
+.contact-section input[type="text"], .contact-section input[type="email"], .contact-section textarea {
+	padding: 1rem 1.5rem;
+}
+footer {
+	padding: 2.5rem 0;
+}
+footer ul li a {
+	font-size: 1.5rem;
+}
+.btn:link, .btn:visited, .btn {
+	padding: 1rem 2rem;
+	font-size: 1.7rem;
+	margin-top: 1.2rem;
+	3.5rem: ;
+}
+@media only screen and (max-width:768px){
+.logo {
+	margin-top: 1.5rem;
+}
+.mobile-menu span {
+	margin-top: 1.8rem;
+}
+h1{
+	font-size: 2.2rem;
+	width: 80%;
+	margin:auto ;
+}
+h2 {
+	font-size: 2.5rem;
+}
+.little-description {
+	font-size: 1.5rem;
+	line-height: 2rem;
+}
+.span_1_of_4 {
+	width: 48.4%;
+}
+.service-icon {
+	margin-top: 2rem;
+}
+.social-link {
+	margin-top: 2rem;
+}
+.portfolio-section .portfolio-image {
+	height: 13rem;
+}
+.portfolio-section .box{
+  padding:.9rem;
+}
+
+
+.testimonial-section .client-review p {
+	font-size: 1.5rem;
+  width: 100%;
+  margin:2% 0;
+}
+.testimonial-section .client-review h3 {
+	margin-top: 2rem;
+	font-size: 2rem;
+}
+.testimonial-section .client-review h3 {
+  margin-top: 0;
+}
+.contact-section form {
+	width: 90%;
+}
+footer ul li {
+	margin: 0 1.5%;
+}
+@media only screen and (max-width:576px){
+.logo {
+	height: 2.5rem;
+	margin-top: 2.5rem;
+}
+.mobile-menu span {
+	margin-top: 2.3rem;
+}
+.sticky .mobile-menu span {
+	margin-top: 0;
+	font-size: 1.6rem;
+	padding: .3rem .5rem;
+}
+.little-description {
+	font-size: 1.7rem;
+	width: 80%;
+	margin-left: 10%;
+	line-height: 2rem;
+}
+.service-icon {
+	height: 7rem;
+  margin-top: 0;
+}
+
+.box p {
+	font-size: 1.3rem;
+	margin-top: 1rem;
+  height: 7rem;
+}
+svg.radial-progress {
+	max-width: 135px;
+}
+.skill-section .box {
+	margin-top: 0rem;
+}
+.portfolio-section .portfolio-image {
+	height: 11rem;
+}
+.portfolio-section .col:nth-child(2) h4{
+	margin-bottom:3.1rem;
+}
+.testimonial-section .col.span_1_of_2 {
+	width: 98.4%;
+  margin-top:0;
+}
+.client-photo {
+	width: 9rem;
+	margin:0 2rem 1rem 0;
+}
+.testimonial-section .client-review {
+	width: 24.6rem;
+	text-align: left;
+}
+footer ul li a {
+	font-size: 1.3rem;
+}
+@media only screen and (max-width:480px){
+header {
+	height: 60vh;
+}
+section {
+	padding: 3rem 0;
+}
+.mobile-menu span {
+	font-size: 1.6rem;
+	margin-top: 1.3rem;
+}
+h2 {
+	font-size: 2rem;
+	letter-spacing: .2rem;
+}
+.little-description {
+	font-size: 1.5rem;
+	line-height: 1.9rem;
+}
+.logo {
+	margin-top: 1rem;
+}
+h1 {
+	font-size: 2rem;
+}
+.btn:link, .btn:visited, .btn {
+	font-size: 1.2rem;
+}
+.span_1_of_4 {
+	width: 100%;
+}
+.box p {
+	height: 2rem;
+}
+.social-link {
+	margin-top: 4rem;
+}
+.portfolio-filter button {
+	font-size: 1.3rem;
+}
+.client-photo {
+	width: 6rem;
+	margin: 0 1.5rem 1rem 0;
+}
+.client-photo img {
+	height: 6rem;
+}
+.testimonial-section .client-review {
+	width: 63%;
+}
+.testimonial-section .client-review p {
+	font-size: 1.3rem;
+  height:5rem;
+}
+.testimonial-section .client-review h3 {
+  font-size: 1.8rem;
+	margin-top: 1rem;
+}
+.contact-section input[type="text"], .contact-section input[type="email"], .contact-section textarea {
+	margin: .5rem 0;
+}
+textarea {
+	height: 15rem;
+}
+footer {
+	padding: 1rem 0;
+}
+footer ul li {
+	margin: 0 .2rem;
+}
+footer ul li a {
+	font-size: 1rem;
+}
+}
